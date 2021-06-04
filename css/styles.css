@@ -1,0 +1,151 @@
+  /* often use tags */
+.dib {
+    display: inline-block;
+}
+.vert{
+    vertical-align: middle;
+}
+.verti{
+    vertical-align: top;
+}
+    
+        /* header */
+.header{
+    margin: 30px 30px;
+}
+.main{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 22px;
+    color: #EE4036;
+}
+.color{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 22px;
+    color: #3D58A6;
+}
+.deck{
+    padding: 0px 18px 0px 49.8px;
+}
+.deck2{
+    padding: 0px 30px 0px 0px;
+}
+  /* >>>>>>>>>>>KONTENTI<<<<<<<< */
+  .banner{
+      width: 1170px;
+      height: 460px;
+      margin: 0 auto;
+  }
+  .satauri{
+    font-family: 'Roboto';
+    font-size: 24px;
+    margin: 90px 0 0 39px;
+  }
+ .box-1{
+     width: 570px;
+     height: 225px ;
+     background-color: #707070;
+     margin: 29.8px 29px 68.3px 0;
+ }
+ .box-2{
+    width: 570px;
+    height: 225px ;
+    background-color: #707070;
+ }
+ .headbox{
+    font-family: 'Roboto';
+    font-size: 22px;
+    padding: 11.1px 0 0 20.8px;
+ }
+ .par{
+     width: 335px;
+     height: 143.29px;
+     margin: 17.4px 0 0 61.2px;
+}
+.box-img{
+    padding-left: 38.8px;
+}
+.sect{
+    margin: 0 auto;
+    width: 1184px;
+}
+
+/* ......... page Of Newses......... */
+.data{
+    width: 56px;
+    height: 56px;
+    background-color: #363E97;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 37px;
+    color: white;
+    margin: 0 0 2px 60px;
+    padding: 15px 0 0 10px;
+}
+.month{
+    margin: 0 0 17.5px 60px;
+    font-size: 22px;
+    color: #363E97;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
+.newshead{
+    margin: 0 0 17.5px 64px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.newsimg {
+    margin: 0 0 17.5px 64px;
+    vertical-align: top;
+}
+.parsize{
+    width: 929px;
+    height: 360px;
+    vertical-align: top;
+    padding:0 64px 0 39px;
+}
+.paragraph {
+    margin-bottom: 20px;
+}
+.wholesect{
+    width: 1366px;
+}
+
+
+/* >>>>>>>>>>>>>> Daviwye CONTACT PAge<<<<<<<<<<<<<< */
+.contact{
+    width: 1366px;
+    height: 570px;
+    background-color: #E6E6E6;
+}
+.adress{
+    width:261px;
+    height:98px;
+    margin:0 0 0 98px;
+    padding-top: 50px;
+}
+.headofadres{
+    font-family:'Roboto';
+    color: blue;
+    font-size: 20px;
+}
+.gray {
+    color: gray;
+}
+.map{
+    width:848.5px;
+    height:464.5px;
+    padding: 39px 95.5px 66.5px 200px;
+
+}
+
+
+/* >>>>>>>>>> rogorc iqna gadavedi FOOTERze <<<<<<< */
+.divider {
+    width: 2px;
+    height: 26.67px;
+    background-color: #363E97;
+    margin: 0 35px;
+}
+.footer{
+    margin: 0 0 38.7px 35px;
+}
+
+
